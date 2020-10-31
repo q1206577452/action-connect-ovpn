@@ -9,7 +9,7 @@ This action is a connect ovpn script
 ## Configuration with With
 
 The following settings must be passed as environment variables as shown in the
-example.
+example.1
 
 | Key         | Value                                                                                                                           | Suggested Type | Required | Default         |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- | --------------- |
